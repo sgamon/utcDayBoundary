@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/sgamon/utcDayBoundary#readme",
   "dependencies": {
-    "moment-timezone": "*",
+    "moment-timezone": "*"
   }
 }
